@@ -1,0 +1,11 @@
+# build / run output
+/output/
+output/
+*.pyc
+__pycache__/
+
+# local scratch
+.tmp/
+tmp/
+.venv/
+.DS_Store
